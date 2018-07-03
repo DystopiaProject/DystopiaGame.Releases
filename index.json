@@ -1,0 +1,13 @@
+{
+  "appName": "C:\\Users\\ZeroTwo\\Desktop\\Test",
+  "gameVersion": "test",
+  "appVersion": "1.0.0.1",
+  "buildDate": "03/07/2018 20:13:40",
+  "entryPoint": null,
+  "files": {
+    "GameFiles\\5cBOE1IG_400x400.jpg": "7171fd83a0643b625ca8db29a1ea6494",
+    "GameFiles\\6144e8b6-6a6f-4bcf-b95e-7ac1fbc0d371.png": "0ddaa2418e58428ba927b021bb2f35af",
+    "GameFiles\\Indev.ico": "703d618e1a1bdfe15aab5060f8847d5f",
+    "GameFiles\\Test\\Screenshot_5.png": "a914a4eacd7662fbe6e298c34c8b7ca0"
+  }
+}
